@@ -81,36 +81,7 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   </div>
 </details>
 
-## Estatísticas do GitHub | GitHub Statistics
 
-Aqui estão algumas estatísticas do meu perfil no GitHub, mostrando as linguagens mais usadas e um resumo geral da minha atividade.
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=github_dark_dimmed" alt="Linguagens Mais Usadas | Top Languages"/>
-    </td>
-    <td style="padding: 0 20px;">
-      |
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=github_dark_dimmed" alt="Estatísticas do Perfil | Profile Statistics"/>
-    </td>
-  </tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Animação da Contribuição do GitHub | GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
-<details>
-  <summary style="font-size: 200px">Ler mais | Read more</summary>
 
   ## Repositórios Destacados | Featured Repositories
 
