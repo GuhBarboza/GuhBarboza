@@ -27,25 +27,23 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
 ---
 ## Formações e Cursos / Education & Courses
 
-- SUP. DE TEC. EM ANÁLISE E DESENV. DE SIST. (Unoeste FIPP) – Cursando desde fev. 2025
-  > SUP. OF TECH. IN SYSTEMS ANALYSIS AND DEVELOPMENT (Unoeste FIPP) – Ongoing since Feb. 2025
     
-- Curso Técnico em Análise e Desenvolvimento de Sistemas (Senai 2 anos)  
-  > Technical Course in Systems Analysis and Development (Senai 2 years)
+- Curso LGPD: Conhecendo e entendendo seus impactos (Alura)
+
   
-- Curso de Fundamentos de Google Cloud Computing (Senai GCP)  
-  > Google Cloud Computing (GCP) Fundamentals Course (Senai)
+- Arquitetura de computadores: por trás de como seu programa funciona (Alura)  
 
-- Curso de Soluções Integradas com IoT (Senai IoT)  
-  > Integrated Solutions with IoT Course (Senai) 
 
-- Curso de Programação em Python no Raspberry (Senai)
-  > Python Programming Course on Raspberry (Senai)
+- Curso de linux (Alura)  
+  
 
-- Cursos Udemy (React, Next, TypeScript, Node, Java, Python)  
-  > Udemy Courses (React, Next, TypeScript, Node, Java, Python)
+- Curso de Programação em Python Botcamp (Santander)/(DIO)
+ 
 
-<a href="https://www.linkedin.com/in/otavig/">
+- Cursos Udemy (React, Next, TypeScript, C#, Javascript, Python)  
+
+
+<a href="[https://www.linkedin.com/in/otavig/](https://www.linkedin.com/in/gustavo-barboza-b6a498288/details/certifications/)">
   <p>Linkedin para mais / Linkedin for more</p>
 </a>
 
