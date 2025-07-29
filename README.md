@@ -73,7 +73,6 @@ Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliand
   </summary>
   <br>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Csharp.svg" title="C#" alt="C#" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
