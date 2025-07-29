@@ -6,43 +6,48 @@
 
 ---
 
-<div id="badges">
-  <a href = "">
+<div id="badges" style="display: flex; justify-content: flex-start; gap: 10px; margin-top: 15px;">
+  <a href = "URL_DO_SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "">
+  <a href = "URL_DO_SEU_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavig?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Otavig?tab=followers">
+  <a href="https://github.com/Otavig?tab=stars" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavig?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Otavig?tab=followers" target="_blank">
+    <img alt="Total Followers" title="Total followers on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Otavig?color=55960c&style=for-the-badge&labelColor=488207&logo=person"/>
+  </a>
 </div>
-<br>
-Olá! Sou Gustavo, um entusiasta da tecnologia e devoto dos valores cristãos, que guiam minha ética em tudo o que faço. Minha paixão é transformar ideias em soluções inovadoras através da programação. 
 
-Atualmente sou desenvolvedor de sistemas direcionados para a Saúde dentro das empresas (Labmed/Solimed/Websaude)
+<br>
+
+Olá! Sou **Gustavo**, um entusiasta da tecnologia e devoto dos valores cristãos que guiam minha ética em tudo o que faço. Minha paixão é transformar ideias em **soluções inovadoras através da programação**.
+
+Atualmente, sou **Desenvolvedor de Sistemas** focado na área da Saúde, atuando nas empresas Labmed, Solimed e Websaude.
 
 ---
 
-## Formação e Cursos
+## 📚 Formação e Cursos
 
 Minha jornada de aprendizado é contínua e diversificada, cobrindo desde os fundamentos da computação até as tecnologias mais recentes:
- 
+
 -   **LGPD:** Conhecendo e entendendo seus impactos (Alura)
 -   **Arquitetura de Computadores:** Por trás de como seu programa funciona (Alura)
 -   **Linux:** Curso Completo (Alura)
 -   **Programação em Python Bootcamps:** (Santander) / (DIO)
 -   **Cursos Complementares (Udemy):** React, Next.js, TypeScript, C#, JavaScript, Python
 
-Para mais detalhes e certificações, visite meu [LinkedIn].
+Para mais detalhes e certificações, visite meu [LinkedIn](URL_DO_SEU_LINKEDIN_AQUI).
 
 ---
 
-## Minha Stack Principal
+## 💻 Minha Stack Principal
 
 Atualmente, minha especialidade reside nas seguintes tecnologias, que utilizo para construir aplicações robustas e eficientes:
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px; margin-top: 20px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express.js" alt="Express.js" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>
@@ -58,7 +63,7 @@ Atualmente, minha especialidade reside nas seguintes tecnologias, que utilizo pa
 
 <img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="right" height="200px">
 
-## Conhecimentos e Ferramentas Adicionais
+## ✨ Conhecimentos e Ferramentas Adicionais
 
 Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliando minhas capacidades:
 
@@ -67,7 +72,7 @@ Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliand
     Clique para expandir
   </summary>
   <br>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Csharp.svg" title="C#" alt="C#" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>
@@ -83,4 +88,6 @@ Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliand
 
 ---
 
-
+<p align="center">
+  Feito com ❤️ por Gustavo
+</p>
