@@ -80,7 +80,6 @@ Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliand
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PowerBI.svg" title="Power BI" alt="Power BI" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
   </div>
