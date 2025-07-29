@@ -29,7 +29,7 @@ Atualmente, sou **Desenvolvedor de Sistemas** focado na área da Saúde, atuando
 
 ---
 
-## 📚 Formação e Cursos
+## 📚 
 
 Minha jornada de aprendizado é contínua e diversificada, cobrindo desde os fundamentos da computação até as tecnologias mais recentes:
 
