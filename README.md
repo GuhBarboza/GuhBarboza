@@ -16,7 +16,6 @@
   <a href="">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavig?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Otavig?tab=followers">
-    <img alt="followers" title="Siga-me no Github" src=/></a>
 </div>
 <br>
 Olá! Sou Gustavo, um entusiasta da tecnologia e devoto dos valores cristãos, que guiam minha ética em tudo o que faço. Minha paixão é transformar ideias em soluções inovadoras através da programação. 
