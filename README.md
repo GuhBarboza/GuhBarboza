@@ -12,27 +12,7 @@
 
 ---
 
-
-
-<div id="badges">
-
-  <a href = "">
-
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-  </a>
-
-  <a href = "">
-
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-
-  </a>
-
-  <a href="">
-
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavig?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-  <a href="https://github.com/Otavig?tab=followers">
+<a href="https://github.com/Otavig?tab=followers">
 
 </div>
 
