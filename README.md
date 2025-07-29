@@ -95,20 +95,3 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   </a>
 
   <br><br>
-
-  ## Gráfico de Atividade | Activity Graph
-
-  Um resumo visual da minha atividade no GitHub.
-
-  [![Gráfico de Atividade do GitHub | GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=otavig&bg_color=1e1c27&color=636e72&line=66aaff&point=33cc99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otavig}/count.svg" /></p> 
-<br></div>
-
-</div>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1c27&height=120&section=footer"/>
