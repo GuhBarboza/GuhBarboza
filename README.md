@@ -82,13 +82,4 @@ Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliand
 
 ---
 
-## Repositórios Destacados
 
-Confira alguns dos meus projetos mais relevantes e veja minhas habilidades em ação:
-
-<a href="https://github.com/Otavig/chat-ia-gemini">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=chat-ia-gemini&theme=jolly" alt="Repositório chat-ia-gemini"/>
-</a>
-<a href="https://github.com/Otavig/Termo-infinity">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=Termo-infinity&theme=jolly" alt="Repositório Termo-infinity"/>
-</a>
