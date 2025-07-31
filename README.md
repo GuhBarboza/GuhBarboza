@@ -48,7 +48,7 @@ Para mais detalhes e certificações, visite meu [LinkedIn](URL_DO_SEU_LINKEDIN_
 Atualmente, minha especialidade reside nas seguintes tecnologias, que utilizo para construir aplicações robustas e eficientes:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px; margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSharp-Dark.svg" title="C#" alt="C#" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express.js" alt="Express.js" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
