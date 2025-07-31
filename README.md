@@ -39,7 +39,7 @@ Minha jornada de aprendizado é contínua e diversificada, cobrindo desde os fun
 -   **Programação em Python Bootcamps:** (Santander) / (DIO)
 -   **Cursos Complementares (Udemy):** React, Next.js, TypeScript, C#, JavaScript, Python
 
-Para mais detalhes e certificações, visite meu [LinkedIn](URL_DO_SEU_LINKEDIN_AQUI).
+
 
 ---
 
