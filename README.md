@@ -82,6 +82,14 @@ Minha curiosidade me leva a explorar diversas ferramentas e linguagens, ampliand
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
   </div>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Animação da Contribuição do GitHub | GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 </details>
 
 ---
